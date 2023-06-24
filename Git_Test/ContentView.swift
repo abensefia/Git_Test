@@ -12,7 +12,7 @@ struct ContentView: View {
         VStack {
         
             Text("Group Members are:")
-            
+            Text("Israa Ashraf")
         }
         .padding()
     }
